@@ -1,0 +1,3 @@
+program second
+begin
+end;
